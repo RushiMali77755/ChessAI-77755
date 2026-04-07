@@ -161,16 +161,7 @@
 
 ---
 
-## Problems / Known Issues
-
-### Chessboard not rendering (ACTIVE)
-**Status**: Unresolved  
-**Description**: The chessboard.js component initializes but no visual board appears. Only header controls and status panel render.  
-**Symptoms**:
-- Page shows "Chess vs AI" title, difficulty dropdown, buttons
-- Empty white space where board should be (520x520px area)
-- Session ID displays correctly in side panel
-- Status shows "ONGOING"
+## Problems / Known Issues : Not Yet any
 
 **Investigation steps attempted**:
 1. Added explicit height/min-height to `.board` CSS (520px)
